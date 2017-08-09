@@ -4,7 +4,7 @@ var mongoose = require('mongoose')
 
 // WHAT IS A HOUSE?
 
-// SCHEMA === CLASS
+// SCHEMA === CLASS Jakes Account
 
 var houseSchema = new mongoose.Schema({
 	description: { type: String, required: true },
